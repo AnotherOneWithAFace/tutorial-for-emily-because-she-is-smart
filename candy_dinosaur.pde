@@ -9,6 +9,8 @@ int BULLETSIZE = 5;
 int PADDLEWIDTH = 10;
 int PADDLEHEIGHT = 10;
 
+// added another comment lol
+
 Bullet bill[];
 int current_bullet_idx = 0;
 Powerup arsenal[];
