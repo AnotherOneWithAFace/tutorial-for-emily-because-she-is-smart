@@ -4,6 +4,8 @@ interface Alien {
   void draw();
 }
 
+// add a comment
+
 class Invader implements Alien {
   final int Rightwards = 1;
   final int Leftwards = 2;
